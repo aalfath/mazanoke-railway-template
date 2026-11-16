@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/mazanoke?utm_medium=integration&utm_source=button&utm_campaign=mazanoke)
+
 # Mazanoke on Railway
 
 Railway template for [Mazanoke](https://github.com/civilblur/mazanoke), a self-hosted image optimizer that runs in your browser. Images are compressed and converted on the visitor's own device and never reach the server.
